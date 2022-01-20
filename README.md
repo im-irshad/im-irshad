@@ -14,7 +14,7 @@ Skills:   REACT / JS / HTML / CSS /
 - 📫 How to reach me: email me on: imabbasi@msn.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/im-irshad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/irshad-muhammad-8a57a028//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/im-irshad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/irshad-muhammad-8a57a028//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-irshad)](https://github.com/anuraghazra/github-readme-stats)
 
