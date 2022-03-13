@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Irshad Muhammad
 #### Currently a student in FullStack Development Course!
-![Currently a student in FullStack Development Course!]
+
 
 I live in Copenhagen, Denmark.
 I have MS in Artificial Intelligence from Dalarna University, Sweden.
