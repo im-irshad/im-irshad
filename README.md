@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Irshad Muhammad
-#### Currently a student in FullStack Development Course!
+#### Currently working as FullStack Developer(Trainee) at Integrify.io(remote)
 
 
 I live in Copenhagen, Denmark.
